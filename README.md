@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou Cristian 👋
 
-<!--
-**cristianflu/cristianflu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de tecnologia com experiência prática em:
 
-Here are some ideas to get you started:
+- Suporte técnico;
+- Infraestrutura web;
+- WordPress;
+- HTML/CSS;
+- Hospedagem;
+- Cloudflare;
+- DNS;
+- VPS;
+- AWS básico;
+- Troubleshooting;
+- Desenvolvimento em Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias e Ferramentas
+- HTML
+- CSS
+- WordPress
+- React básico
+- Python
+- cPanel
+- Plesk
+- Cloudflare
+- MySQL
+- phpMyAdmin
+
+## Projetos
+### Mini Cleaner
+Aplicação desktop em Python desenvolvida para auxiliar na otimização e manutenção de computadores Windows.
+
+## Atualmente estudando
+- React
+- JavaScript
+- Infraestrutura web
+- Tecnologias cloud
