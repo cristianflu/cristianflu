@@ -1,24 +1,33 @@
 # Cristian Flues
 
-**Analista de Suporte Técnico Web | WordPress | Infraestrutura de Hospedagem | Python**
+**Analista de Suporte Técnico Web | Infraestrutura de Hospedagem | WordPress | Python**
 
-Profissional de Tecnologia da Informação com mais de 10 anos de experiência na implantação, manutenção e suporte de ambientes web. Atuo com WordPress, infraestrutura de hospedagem, administração de servidores, resolução de incidentes e desenvolvimento de soluções em Python.
+Profissional de Tecnologia da Informação com mais de 10 anos de experiência em suporte técnico web, administração de hospedagens, infraestrutura para aplicações web e desenvolvimento de soluções digitais.
 
-Além da experiência em suporte técnico, desenvolvo aplicações desktop, APIs REST e aplicações web, buscando sempre aplicar boas práticas de arquitetura, desempenho e automação.
+Atuo na implantação, manutenção e recuperação de websites, resolução de incidentes, otimização de desempenho, configuração de ambientes de hospedagem e desenvolvimento de aplicações em Python.
+
+Experiência com WordPress, servidores web, DNS, Cloudflare, bancos de dados e automação de processos. Desenvolvimento de aplicações utilizando Python, FastAPI e React, aplicando boas práticas de organização de código, arquitetura e melhoria contínua.
 
 ---
 
-# Áreas de Atuação
+## Stack
 
-## Suporte Técnico
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,vite,tailwind,html,css,js,php,mysql,wordpress,git,github,linux,docker" />
+
+---
+
+## Especialidades
+
+### Suporte Técnico Web
 
 - Atendimento remoto
 - Troubleshooting
-- Diagnóstico de falhas
-- Suporte ao usuário
-- Resolução de incidentes
+- Diagnóstico e resolução de incidentes
+- Suporte ao cliente
+- Análise de falhas em aplicações web
+- Investigação de problemas em ambientes de produção
 
-## Infraestrutura Web
+### Infraestrutura e Hospedagem
 
 - WordPress
 - cPanel
@@ -26,15 +35,28 @@ Além da experiência em suporte técnico, desenvolvo aplicações desktop, APIs
 - Cloudflare
 - DNS
 - FTP
+- VPS
 - SSL/TLS
 - Backup e restauração
-- Migração de hospedagem
+- Migração de hospedagens
+- Configuração de e-mail corporativo
 - MySQL
 - phpMyAdmin
-- VPS
-- AWS (básico)
 
-## Desenvolvimento
+### Performance Web e SEO Técnico
+
+- Core Web Vitals
+- Google PageSpeed Insights
+- SEO técnico
+- Configuração de cache
+- Cloudflare CDN
+- Compressão Gzip e Brotli
+- Otimização de imagens
+- Lazy Loading
+- Minificação de CSS e JavaScript
+- Otimização de WordPress
+
+### Desenvolvimento
 
 - Python
 - FastAPI
@@ -46,23 +68,26 @@ Além da experiência em suporte técnico, desenvolvo aplicações desktop, APIs
 - JavaScript
 - PHP
 
-## Ferramentas
+### Ferramentas
 
 - Git
 - GitHub
-- VS Code
+- Visual Studio Code
 - PyInstaller
 - CustomTkinter
+- Docker
 
 ---
 
 # Projetos em Destaque
 
-## Mini Cleaner
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"/> Mini Cleaner
 
-Aplicação desktop desenvolvida em Python para limpeza, manutenção e otimização do Windows.
+Aplicação desktop desenvolvida em Python utilizando CustomTkinter para limpeza, otimização e manutenção do Windows.
 
-**Tecnologias**
+### Tecnologias
+
+<img src="https://skillicons.dev/icons?i=python" />
 
 - Python
 - CustomTkinter
@@ -70,13 +95,15 @@ Aplicação desktop desenvolvida em Python para limpeza, manutenção e otimiza�
 
 ---
 
-## Workout API
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="22"/> Workout API
 
-API REST desenvolvida utilizando FastAPI.
+API REST desenvolvida com FastAPI utilizando arquitetura em camadas e boas práticas para desenvolvimento de aplicações backend.
 
-**Recursos**
+### Tecnologias
 
-- Arquitetura em camadas
+<img src="https://skillicons.dev/icons?i=python,postgres" />
+
+- FastAPI
 - SQLAlchemy
 - Pydantic
 - JWT
@@ -84,42 +111,34 @@ API REST desenvolvida utilizando FastAPI.
 
 ---
 
-## Site Institucional
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="22"/> Site Institucional
 
-Aplicação desenvolvida utilizando React, Vite e Tailwind CSS.
+Aplicação desenvolvida com React, Vite e Tailwind CSS, priorizando desempenho, responsividade e organização de componentes.
 
-**Características**
+### Tecnologias
 
-- Layout responsivo
-- Componentização
-- Alto desempenho
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 
----
-
-## O que estou desenvolvendo
-
-- Aplicações desktop em Python
-- APIs REST com FastAPI
-- Projetos em React
-- Automações
-- Estudos em infraestrutura e computação em nuvem
+- React
+- Vite
+- Tailwind CSS
 
 ---
 
-# Objetivo
+# Estatísticas do GitHub
 
-Atuar em projetos voltados para Suporte Técnico, Infraestrutura Web, Hospedagem, WordPress e Desenvolvimento Python, contribuindo com soluções confiáveis, organização e melhoria contínua.
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cristianflu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cristianflu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 ---
 
 # Contato
 
-📍 São Paulo – SP
+**Localização:** São Paulo - SP  
 
-💼 LinkedIn  
-https://linkedin.com/in/cristian-flues
+**LinkedIn:** https://linkedin.com/in/cristian-flues  
 
-💻 GitHub  
-https://github.com/cristianflu
+**GitHub:** https://github.com/cristianflu  
 
-📧 cristianflues@hotmail.com
+**E-mail:** cristianflues@hotmail.com
